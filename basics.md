@@ -67,6 +67,7 @@ compare
 convert
 compare
 measure
+confirm
 
 
 ```powershell
