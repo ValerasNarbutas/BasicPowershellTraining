@@ -4,6 +4,7 @@
 
 ## help system
 
+
 ```powershell
 # version PowerShell
 $PSVersionTable
@@ -59,6 +60,14 @@ Get-ADUser -Identity mike | Get-Member
 ```
 
 ## Oneliners and pipeline
+key things to talk
+whatif
+export
+compare
+convert
+compare
+measure
+
 
 ```powershell
 # oneliners
