@@ -6,11 +6,24 @@ BasicPowershellTraining agenda and samples
 
 ### Starting up
 
+installins, setting policy
 ### Help system
+
+all thing about help, wilcards, examples out windows
+Online help, update help
 
 ### Pipeline
 
+multiple ways to use it
+
 ### Extending shell
+
+plugins, modules
+import, install, list modules
+
+```powershell
+get-module -listavailable
+```
 
 ### Objects
 
