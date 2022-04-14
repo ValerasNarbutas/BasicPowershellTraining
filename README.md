@@ -32,6 +32,7 @@ BasicPowershellTraining agenda and samples
 
 [Community powershell samples](https://pnp.github.io/script-samples/)
 
+[very very old and huge Powershell script samples source](https://www.powershellgallery.com/)
 
 [Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core](https://docs.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps)
 

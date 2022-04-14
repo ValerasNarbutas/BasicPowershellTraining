@@ -1,7 +1,5 @@
 # PowerShell Basics
 
-## _The Last Markdown Editor, Ever_
-
 [Installing Powershell](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-7.2.0)
 
 ## help system
